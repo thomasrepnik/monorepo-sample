@@ -10,7 +10,7 @@
     <mirrors>
         <mirror>
             <id>nexus-local</id>
-            <url>http://localhost:8081/nexus/content/groups/public</url>
+            <url>http://localhost:8081/repository/maven-public/</url>
             <mirrorOf>central</mirrorOf>
         </mirror>
     </mirrors>
