@@ -6,7 +6,7 @@
 
     <groupId>ch.suva.test</groupId>
     <artifactId>common</artifactId>
-    <version>1.0.7</version>
+    <version>1.0.8-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Common Library</name>
