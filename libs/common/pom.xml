@@ -14,7 +14,7 @@
     <version>1.0.12-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Common Library22</name>
+    <name>Common Library</name>
     <description>A common library used by other projects</description>
 
     <properties>
