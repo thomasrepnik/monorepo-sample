@@ -16,7 +16,7 @@
     <packaging>jar</packaging>
 
     <name>Common Library</name>
-    <description>A common5 library used by other projects</description>
+    <description>A common6 library used by other projects</description>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
