@@ -12,11 +12,11 @@
     </parent>
 
     <artifactId>common</artifactId>
-    <version>1.0.12</version>
+    <version>1.0.13-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Common Library</name>
-    <description>A common2 library used by other projects</description>
+    <description>A common3 library used by other projects</description>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
