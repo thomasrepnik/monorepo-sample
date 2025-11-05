@@ -21,8 +21,8 @@
     <servers>
         <server>
             <id>nexus-local</id>
-            <username>deployer</username>
-            <password>deployer123</password>
+            <username>admin</username>
+            <password>admin123</password>
         </server>
     </servers>
 
