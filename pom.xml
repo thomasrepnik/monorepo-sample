@@ -6,11 +6,11 @@
 
     <groupId>ch.suva.test</groupId>
     <artifactId>test-plan-release</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.3-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Plan Release Integration Test</name>
-    <description>Integration3 test for the plan-release goal</description>
+    <description>Integration4 test for the plan-release goal</description>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
