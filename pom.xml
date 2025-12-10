@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
 
     <name>Plan Release Integration Test</name>
-    <description>Integration2 test for the plan-release goal</description>
+    <description>Integration3 test for the plan-release goal</description>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
